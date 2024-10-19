@@ -1,4 +1,4 @@
-nombre = 'Gabriel'
+nombre = 'Gabrielito'
 
 apellido = 'El Mejor'
 
